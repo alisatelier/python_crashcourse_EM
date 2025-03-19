@@ -13,3 +13,5 @@ print(f"Hello {guest_list[2]}, we're excited to see you there!")
 guest_list.insert(1, 'Erin Evans')
 guest_list.append('Irene Hoff')
 print(guest_list)
+
+print(len(guest_list))
